@@ -12,10 +12,9 @@ body {
 .container {
   display: flex;
   flex-direction: column;
-  width: 580px; 
+  width: 480px; 
   height: 672px;
   align-items: center;
-  
 }
 
 .image {
